@@ -1,70 +1,69 @@
-
 {
   "game": {
-    "version": "0.1.0",
-    "download_url": ""
+    "version": "0.2.0",
+    "download_url": "https://your-link-here.com"
   },
   "news": [
     {
+      "id": "news_005",
+      "title": "Work on the Next Update Has Already Started!",
+      "description": "Development on the next update is already underway. Follow our Patreon and Discord to stay up to date, see previews, and keep track of upcoming content for Lust Family.",
+      "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/news_005.webp",
+      "url": ""
+    },
+    {
+      "id": "news_004",
+      "title": "A New Family Morning Event",
+      "description": "Sunday morning gets a lot more fun with a new family event featuring Twister. Expect playful moments, new interactions, and a scene that adds more life to the house.",
+      "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/news_004.webp",
+      "url": ""
+    },
+    {
       "id": "news_003",
-      "date": "2026-11-24",
-      "category": "Development Preview",
-      "title": "Lust Family — What's Coming in v0.2.0?",
-      "description": "More university events, new character stories, gameplay improvements, and exciting discoveries are coming in the next update. Stay tuned for more!",
-      "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/becca_001.webp",
+      "title": "Becca Arrives in Extra Girls",
+      "description": "Becca is now part of the Extra Girls content. A beautiful married woman, new events, tension, intrigue, and spicy moments make her one of the highlights of the current update.",
+      "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/news_003.webp",
       "url": ""
     },
     {
       "id": "news_002",
-      "date": "2026-11-24",
-      "category": "Extra Girls",
-      "title": "Meet Becca — Extra Girls DLC!",
-      "description": "A new character joins Lust Family! Get to know Becca, discover her story, and experience new events filled with surprises.",
-      "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/becca_001.webp",
+      "title": "Help Decide the Next Main Girl Focus!",
+      "description": "Want more events for your favorite girl? Now is your chance to help decide who will receive the biggest focus in the next update. Your vote can influence the direction of upcoming content.",
+      "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/news_002.webp",
       "url": ""
     },
     {
       "id": "news_001",
-      "date": "2026-11-24",
-      "category": "Announcement",
-      "title": "Welcome to Lust Family!",
-      "description": "Welcome to our new in-game news center! Follow the development of This Is My Life: Lust Family, discover upcoming content, and stay informed about new updates and DLC releases.",
-      "banner": "",
+      "title": "Lust Family v0.2.0 Is Here!",
+      "description": "Version 0.2.0 brings new university events, improvements to the economy, new discoveries, and the arrival of Becca in Extra Girls. This update expands the game with more content and new possibilities.",
+      "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/news_001.webp",
       "url": ""
     }
   ],
   "dlcs": {
     "extra_girls": {
-      "version": "0.2.0",
-      "url": ""
+      "version": "0.2.0"
     },
     "gallery": {
-      "version": "0.2.0",
-      "url": ""
+      "version": "0.2.0"
     },
     "gallery_unlock": {
-      "version": "0.2.0",
-      "url": ""
+      "version": "0.2.0"
     },
     "photo_collection": {
-      "version": "0.2.0",
-      "url": ""
+      "version": "0.1.0"
     },
     "wallpapers": {
-      "version": "0.2.0",
-      "url": ""
+      "version": "0.1.0"
     },
     "wallpapers_4k": {
-      "version": "0.2.0",
-      "url": ""
+      "version": ""
     },
     "wallpapers_unlock": {
-      "version": "0.2.0",
-      "url": ""
+      "version": "0.1.0"
     },
     "cheats": {
-      "version": "0.2.0",
-      "url": ""
+      "version": "0.1.0"
     }
   }
 }
