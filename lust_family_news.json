@@ -1,0 +1,24 @@
+
+{
+  "game": {
+    "version": "0.1.0",
+    "download_url": ""
+  },
+  "news": {
+    "id": "news_001",
+    "title": "Welcome to Lust Family!",
+    "description": "Exciting things are coming to This Is My Life: Lust Family! New character events, improvements, and the arrival of Becca in the Extra Girls DLC are part of the upcoming v0.2.0 update. Stay tuned!",
+    "banner": "",
+    "url": ""
+  },
+  "dlcs": {
+    "extra_girls": {},
+    "gallery": {},
+    "gallery_unlock": {},
+    "photo_collection": {},
+    "wallpapers": {},
+    "wallpapers_4k": {},
+    "wallpapers_unlock": {},
+    "cheats": {}
+  }
+}
