@@ -4,21 +4,67 @@
     "version": "0.1.0",
     "download_url": ""
   },
-  "news": {
-    "id": "news_001",
-    "title": "Welcome to Lust Family!",
-    "description": "Exciting things are coming to This Is My Life: Lust Family! New character events, improvements, and the arrival of Becca in the Extra Girls DLC are part of the upcoming v0.2.0 update. Stay tuned!",
-    "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/becca_001.webp",
-    "url": ""
-  },
+  "news": [
+    {
+      "id": "news_003",
+      "date": "2026-11-24",
+      "category": "Development Preview",
+      "title": "Lust Family — What's Coming in v0.2.0?",
+      "description": "More university events, new character stories, gameplay improvements, and exciting discoveries are coming in the next update. Stay tuned for more!",
+      "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/becca_001.webp",
+      "url": ""
+    },
+    {
+      "id": "news_002",
+      "date": "2026-11-24",
+      "category": "Extra Girls",
+      "title": "Meet Becca — Extra Girls DLC!",
+      "description": "A new character joins Lust Family! Get to know Becca, discover her story, and experience new events filled with surprises.",
+      "banner": "https://raw.githubusercontent.com/LiviaIsButterflyy/lust-family-updates/main/becca_001.webp",
+      "url": ""
+    },
+    {
+      "id": "news_001",
+      "date": "2026-11-24",
+      "category": "Announcement",
+      "title": "Welcome to Lust Family!",
+      "description": "Welcome to our new in-game news center! Follow the development of This Is My Life: Lust Family, discover upcoming content, and stay informed about new updates and DLC releases.",
+      "banner": "",
+      "url": ""
+    }
+  ],
   "dlcs": {
-    "extra_girls": {},
-    "gallery": {},
-    "gallery_unlock": {},
-    "photo_collection": {},
-    "wallpapers": {},
-    "wallpapers_4k": {},
-    "wallpapers_unlock": {},
-    "cheats": {}
+    "extra_girls": {
+      "version": "0.2.0",
+      "url": ""
+    },
+    "gallery": {
+      "version": "0.2.0",
+      "url": ""
+    },
+    "gallery_unlock": {
+      "version": "0.2.0",
+      "url": ""
+    },
+    "photo_collection": {
+      "version": "0.2.0",
+      "url": ""
+    },
+    "wallpapers": {
+      "version": "0.2.0",
+      "url": ""
+    },
+    "wallpapers_4k": {
+      "version": "0.2.0",
+      "url": ""
+    },
+    "wallpapers_unlock": {
+      "version": "0.2.0",
+      "url": ""
+    },
+    "cheats": {
+      "version": "0.2.0",
+      "url": ""
+    }
   }
 }
